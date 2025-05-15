@@ -21,3 +21,4 @@
 /Users/karunakar/Desktop/C#/WebApplication1/obj/Debug/net9.0/WebApplication1.pdb
 /Users/karunakar/Desktop/C#/WebApplication1/obj/Debug/net9.0/WebApplication1.genruntimeconfig.cache
 /Users/karunakar/Desktop/C#/WebApplication1/obj/Debug/net9.0/ref/WebApplication1.dll
+/Users/karunakar/Desktop/C#/WebApplication1/obj/Debug/net9.0/WebApplication1.sourcelink.json
